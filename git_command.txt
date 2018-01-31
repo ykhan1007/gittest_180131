@@ -1,0 +1,21 @@
+
+git init
+
+git add filename or .
+
+git commit -m "comment for this commit"
+
+git checkout . (수정된 내용 초기화)
+
+(원격 저장소 등록)
+
+git remote add origin https://github.com/...
+
+git remote -v
+
+git push origin master
+
+git pull origin master
+
+
+
