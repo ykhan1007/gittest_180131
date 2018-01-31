@@ -17,5 +17,12 @@ git push origin master
 
 git pull origin master
 
+git branch
+	* : 현재 브랜치를 의미
 
+git branch feature_x : 새로운 브랜치 생성
+
+git checkout feature_x : 현재 브랜치 변경
+
+git branch -b feature_x : 새로운 브랜치 생성 및 현 브랜치 변경
 
